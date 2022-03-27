@@ -30,7 +30,13 @@ The Free version provides one-way (Redmine to Trello) integration. It is valuabl
 
 The Pro version supports two-way integration. The work information like the work status, progress, and the completion date can be updated on a Card and propagated to the connected Redmine Issue. Therefore the Pro version fully enables the project tracking capability and would save your projects.
 
-![Free vs. Pro](https://pvision.jp/apps/wp-content/uploads/2022/03/redsync-free-pay-comp-table.png)
+|Feature|Free|Pro|
+|---|---|---|
+|Create Cards from Redmine Issues|Y|Y|
+|View work schedule on Card|Y|Y|
+|View work status & progress on Card|Y|Y|
+|Report work status & progress on Card|-|Y|
+|Report work completion on Card|-|Y|
 
 # System Requirements
 ## Redmine
@@ -73,7 +79,13 @@ RedSyncは、フリーとプロの２つのバージョンで提供されます�
 
 プロ版は、RedmineとTrelloの双方向の統合を実現します。作業のステータスや進捗をカード上で更新でき、その結果はRedmineのチケットに反映されます。これにより、プロジェクトメンバーに負担を強いることなく、プロジェクトの状況を迅速かつ正確に把握できるようになります。
 
-![Free vs. Pro](https://pvision.jp/apps/wp-content/uploads/2022/03/redsync-free-pay-comp-1.png)
+|機能|フリー|プロ|
+|---|---|---|
+|チケットからカードを作成|◯|◯|
+|作業のスケジュールをカード上で見る|◯|◯|
+|作業のステータスや進捗をカード上で見る|◯|◯|
+|作業のステータスや進捗をカードから報告する|-|◯|
+|作業のステータスをカードから報告する|-|◯|
 
 # システム要求
 ## Redmine
