@@ -4,7 +4,7 @@
 
 RedSync integrates Redmine with Trello. It supports a project manager to track the project status timely and accurately without asking administrative hassles of the project members.
 
-[Link to Full Documentation (User's Guide)](https://pvision.jp/apps/2022/03/17/redsync-power-up/)
+[Link to User's Guide](https://pvision.jp/apps/2022/03/17/redsync-power-up/)
 
 ![Solution Overview](https://pvision.jp/apps/wp-content/uploads/2022/03/redsync-system-overview.png)
 
