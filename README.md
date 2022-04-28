@@ -36,9 +36,9 @@ As a result,
 
 RedSync comes in two versions a free version and a paid version.
 
-The Free version provides one-way (Redmine to Trello) integration. It is valuable for organizing project tasks as Cards based on WBS defined in Redmine, but the project tracking capability is minimal.
-
 The Pro version supports two-way integration. The work information like the work status, progress, and the completion date can be updated on a Card and propagated to the connected Redmine Issue. Therefore the Pro version fully enables the project tracking capability and would save your projects.
+
+The Free version provides one-way (Redmine to Trello) integration. It is valuable for organizing project tasks as Cards based on WBS defined in Redmine, but the project tracking capability is minimal.
 
 |Feature|Free|Pro|
 |---|---|---|
@@ -65,15 +65,25 @@ RedSyncはRedmineをTrelloと統合します。RedSyncはプロジェクト管�
 
 [詳細はこちら(ユーザーズガイド)](https://pvision.jp/apps/2022/03/24/redsync-power-up-jp/)
 
-![Solution Overview](https://pvision.jp/apps/wp-content/uploads/2022/03/redsync-solution-overview.png)
+![Solution Overview](https://pvision.jp/apps/wp-content/uploads/2022/03/redsync-system-overview-jp.png)
+
+# プロジェクトの状況把握の難しさ
+
+プロジェクト管理者にとって、プロジェクトのスケジュールをプロジェクトメンバーと共有し、その進捗を追跡することは、極めて重要な作業です。しかしプロジェクトメンバーにとってはどうでしょうか? スケジュールの確認や進捗の報告は、しばしば事務的な負担とみなされ、後回しにされがちです。その結果、プロジェクトの問題の把握が遅れ、深刻なリスクに直面することになります。
+
+![As-Is Solution](https://pvision.jp/apps/wp-content/uploads/2022/03/redsync-as-is-system-overview-jp.png)
 
 # 日々のプロジェクト作業の中にプロジェクトの追跡を組み込む
 
-Trelloはプロジェクトの日々の作業を支援する優れたツールです。
+RedSyncは、Trelloの日々の作業を支援する能力に、プロジェクトを追跡する機能を組み込みます。RedmineをTrelloと統合することで、プロジェクトメンバーにとって、Trelloはプロジェクトの作業と追跡を行うための、統一されたツールとなります。
 
-RedSyncは、Trelloのこの優れた作業支援の能力に、プロジェクトを追跡するための機能を追加します。RedSyncは、RedmineのチケットからTrelloのカードを作成し紐付けます。そしてチケットとカードの間で、プロジェクトに関する情報を同期します。
+![To-Be Solution](https://pvision.jp/apps/wp-content/uploads/2022/03/redmine-system-to-be-jp.png)
 
-![Card with Redmine Data](https://pvision.jp/apps/wp-content/uploads/2022/03/redsync-card-and-issue.png)
+Trelloはプロジェクトの日々の作業を支援する優れたツールです。プロジェクト管理者は、プロジェクトの作業をカードに割り当て、そこにプロジェクトメンバーが、作業手順を追加したり、作業結果を記録したりできます。
+
+RedSyncは、RedmineのチケットからTrelloのカードを作成することで、カードに定義された日々の作業と、チケットとして定義されたWBSを紐づけます。更にRedSyncは、カードとチケットの間で情報を同期することで、作業状況の追跡を可能にします。つまりカードとチケットは、プロジェクトの情報を共有する上で、表裏一体の関係となります。
+
+![Card with Redmine Data](https://pvision.jp/apps/wp-content/uploads/2022/03/redsync-sync-card-and-issue-jp.png)
 
 その結果、
 
@@ -85,21 +95,21 @@ RedSyncは、Trelloのこの優れた作業支援の能力に、プロジェク�
 
 RedSyncは、フリーとプロの２つのバージョンで提供されます。
 
-フリー版は、RedmineからTrelloへの片方向の統合を行います。これはWBS (チケット) に沿って作業 (カード) を編成する上で有用です。ただしTrelloからRedmineへのステータスや進捗の報告はできません。報告はRedmineのチケットに直接書き込む必要があります。(このためにカード上のリンクからチケットを開くことができます)
-
 プロ版は、RedmineとTrelloの双方向の統合を実現します。作業のステータスや進捗をカード上で更新でき、その結果はRedmineのチケットに反映されます。これにより、プロジェクトメンバーに負担を強いることなく、プロジェクトの状況を迅速かつ正確に把握できるようになります。
+
+フリー版は、RedmineからTrelloへの片方向の統合を行います。これはWBS (チケット) に沿って作業 (カード) を編成する上で有用です。ただしTrelloからRedmineへのステータスや進捗の報告はできません。報告はRedmineのチケットに直接書き込む必要があります。(このためにカード上のリンクからチケットを開くことができます)
 
 |機能|フリー|プロ|
 |---|---|---|
 |チケットからカードを作成|◯|◯|
 |作業のスケジュールをカード上で見る|◯|◯|
 |作業のステータスや進捗をカード上で見る|◯|◯|
+|スケジュールをチケットからカードに更新する|◯|◯|
 |作業のステータスや進捗をカードから報告する|-|◯|
-|作業のステータスをカードから報告する|-|◯|
 
 # システム要求
 ## Redmine
-バージョン: 4.1, 4.2
+バージョン: 4.1, 4.2, 5.0
 
 プロトコル:
 - HTTPS
