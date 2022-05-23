@@ -43,7 +43,7 @@ The Free version provides one-way (Redmine to Trello) integration. It is valuabl
 |Create Card from Redmine Issue|Y|Y|
 |Update schedule from Redmine Issue|Y|Y|
 |Report work status on Card|-|Y|
-|Report work on Card|-|Y|
+|Report work progress on Card|-|Y|
 
 # System Requirements
 ## Redmine
