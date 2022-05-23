@@ -1,5 +1,5 @@
 (DRAFT - Under Preparation)
 
-[User's Guide English](./README-EN.md)
+[READ ME (English)](./README-EN.md)
 
-[ユーザーガイド](./README-JP.md)
+[READ ME (日本語)](./README-JP.md)
