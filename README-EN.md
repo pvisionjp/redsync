@@ -56,6 +56,6 @@ Protocol:
 # Support
 We provide RedSync power-up on an "as-is" basis with Q&A support only.
 
-Please submit any questions or defects to this the Issues of this repository.
+Please submit any questions or defects to the Issues of this repository.
 
-We welcome your feedback and feature suggestions.
+We welcome your feedback and feature suggestions to the Issues as well.
