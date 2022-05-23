@@ -57,3 +57,10 @@ Redmineサーバーは、利用環境のブラウザからアクセスできる�
 
 ## ブラウザ
 テスト済み: Chrome, Firefox, Safari, Edge
+
+## サポート
+RedSync Power-Upは「現状のまま (as-is) 」での提供とさせて頂きます。
+
+質問、不具合などはこちらのGuithub Issuesでご連絡頂ければ、可能な範囲で対応させて頂きます。
+
+ご要望についてもGithub Issuesでお知らせ頂けると幸いです。
