@@ -1,5 +1,7 @@
 ![Banner](./redsync-banner-with-pvision.png)
 
+[Release History](./redsync/wiki/Release-History)
+
 # English
 
 - [READ ME (E)](./README-EN.md)
