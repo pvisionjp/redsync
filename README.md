@@ -2,6 +2,8 @@
 
 [Release History](https://github.com/pvisionjp/redsync/wiki/Release-History)
 
+[News: Limited Availability (2022 Dec. 21 from 14:00 to 18:00 GMT)](https://github.com/pvisionjp/redsync/wiki/News:--Limited-Availability-(2022-Dec.-21--from-14:00-to-18:00-GMT))
+
 # English
 
 - [READ ME (E)](./README-EN.md)
