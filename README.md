@@ -2,6 +2,8 @@
 
 [Release History](https://github.com/pvisionjp/redsync/wiki/Release-History)
 
+[News](https://github.com/pvisionjp/redsync/wiki/News:-RedSync-Disappered-from-Board-Menu)
+
 # English
 
 - [READ ME (E)](./README-EN.md)
