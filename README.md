@@ -2,7 +2,7 @@
 
 [Release History](https://github.com/pvisionjp/redsync/wiki/Release-History)
 
-[News](https://github.com/pvisionjp/redsync/wiki/News:-RedSync-Disappered-from-Board-Menu)
+[News - How to Recover RedSync](https://github.com/pvisionjp/redsync/wiki/News:-How-to-Recover-RedSync-on-Board-Menu)
 
 # English
 
