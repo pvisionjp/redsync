@@ -2,7 +2,7 @@
 
 [Release History](https://github.com/pvisionjp/redsync/wiki/Release-History)
 
-[News - How to Recover RedSync](https://github.com/pvisionjp/redsync/wiki/News:-How-to-Recover-RedSync-on-Board-Menu)
+[News: Limited Availability (2022 Dec. 21 from 14:00 to 18:00 GMT)](https://github.com/pvisionjp/redsync/wiki/News:-Limited-Availability-(2023-May.-31-from-15:00-to-19:00-GMT))
 
 # English
 
