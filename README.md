@@ -1,6 +1,5 @@
 ![Banner](./redsync-banner-with-pvision.png)
 
-[News: Limited Availability (2023 Nov. 8 from 14:00 to 18:00 GMT)](https://github.com/pvisionjp/redsync/wiki/News:-Limited-Availability-(2023-Nov.-8-from-14:00-to-18:00-GMT))
 
 [Release History](https://github.com/pvisionjp/redsync/wiki/Release-History)
 
