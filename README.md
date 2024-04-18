@@ -3,7 +3,7 @@
 
 [Release History](https://github.com/pvisionjp/redsync/wiki/Release-History)
 
-**News:** [Limited Availability (2024/05/15 15:00 - 2024/05/15 19:00 (GMT))](https://github.com/pvisionjp/redsync/wiki/News:-Limited-Availability-(2024-May-08-from-15:00-to-19:00-GMT)) (Revised)
+**News:** [Limited Availability (2024/05/15 15:00 - 2024/05/15 19:00 (GMT))]([https://github.com/pvisionjp/redsync/wiki/News:-Limited-Availability-(2024-May-08-from-15:00-to-19:00-GMT](https://github.com/pvisionjp/redsync/wiki/News:-Limited-Availability-(2024-May-15-from-15:00-to-19:00-GMT)-%E2%80%90-Revised))) (Revised)
 
 # English
 
