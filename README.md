@@ -21,4 +21,4 @@
 - 直接のコンタクトが必要な方は、メールでご連絡ください。
     - email: redsync at pvison.jp
 
-[詳細を読む](https://github.com/pvisionjp/redsync/blob/main/README-JP.md)
+[もっと詳しく知る](https://github.com/pvisionjp/redsync/blob/main/README-JP.md)
