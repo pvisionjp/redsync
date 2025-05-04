@@ -11,6 +11,8 @@
 - We welcome your feedback and feature suggestions as well.
 - If you want to contact us directly, please send an email.
    - email: redsync at pvison.jp
+ 
+[Read More Details](https://github.com/pvisionjp/redsync/blob/main/README-EN.md)
 
 # 日本語
 
@@ -18,3 +20,5 @@
 - フィードバックや機能強化のご提案もお待ちしています。
 - 直接のコンタクトが必要な方は、メールでご連絡ください。
     - email: redsync at pvison.jp
+
+[詳細を読む](https://github.com/pvisionjp/redsync/blob/main/README-JP.md)
