@@ -3,7 +3,7 @@
 
 [Release History](https://github.com/pvisionjp/redsync/wiki/Release-History)
 
-**News:** None
+**News:** [All Functions Avaiable at No Charge](https://github.com/pvisionjp/redsync/wiki/News:-All-Functions-Avaiable-at-No-Charge)
 
 # English
 
