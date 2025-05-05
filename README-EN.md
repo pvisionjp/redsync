@@ -22,7 +22,7 @@ Trello is a great tool to support daily project work. A project manager defines 
 
 RedSync creates Cards from Redmine Issues; hence, the daily work defined in Cards aligns with the project WBS defined in Issues. Then RedSync synchronizes the information between the Cards and the Issues. Thus, a Card and an Issue represent each other.
 
-![Card with Redmine Data](https://pvision.jp/apps/wp-content/uploads/2022/03/redsync-sync-card-and-issue.png)
+![Card with Redmine Data](https://pvision.jp/apps/wp-content/uploads/2023/11/synced-card-en.png)
 
 As a result,
 
