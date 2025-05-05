@@ -22,7 +22,7 @@ Trelloはプロジェクトの日々の作業を支援する優れたツール�
 
 RedSyncは、RedmineのチケットからTrelloのカードを作成することで、カードに定義された日々の作業と、チケットとして定義されたWBSを紐づけます。更にRedSyncは、カードとチケットの間で情報を同期することで、作業状況の追跡を可能にします。つまりカードとチケットは、プロジェクトの情報を共有する上で、表裏一体の関係となります。
 
-![Card with Redmine Data](https://pvision.jp/apps/wp-content/uploads/2022/03/redsync-sync-card-and-issue-jp.png)
+![Card with Redmine Data](https://pvision.jp/tech/wp-content/uploads/2023/07/image.png)
 
 その結果、
 
