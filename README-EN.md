@@ -33,6 +33,7 @@ As a result,
 # System Requirements
 ## Redmine
 Version: 5.0, 5.1, 6.0
+
 Protocol:
 
 - HTTPS
