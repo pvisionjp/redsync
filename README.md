@@ -1,9 +1,8 @@
 ![Banner](./redsync-banner-with-pvision.png)
 
+**News:** [All Functions Avaiable at No Charge](https://github.com/pvisionjp/redsync/wiki/News:-All-Functions-Avaiable-at-No-Charge)
 
 [Release History](https://github.com/pvisionjp/redsync/wiki/Release-History)
-
-**News:** [All Functions Avaiable at No Charge](https://github.com/pvisionjp/redsync/wiki/News:-All-Functions-Avaiable-at-No-Charge)
 
 # English
 
