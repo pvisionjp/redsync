@@ -1,4 +1,4 @@
-# RedSync (Integrate Redmine and Trello)
+# RedSync - Integrate Redmine and Trello
 
 **News:** [All Functions Avaiable at No Charge](https://github.com/pvisionjp/redsync/wiki/News:-All-Functions-Avaiable-at-No-Charge)
 
