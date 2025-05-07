@@ -4,6 +4,16 @@
 
 [Release History](https://github.com/pvisionjp/redsync/wiki/Release-History)
 
+<a href="https://trello.com/power-ups/617c2d2289d99f306863e8fa/enable">
+  <img
+    alt="Add to Trello"
+    height="40" width="144"
+    src="https://p.trellocdn.com/add_to_trello.png"
+    srcSet="https://p.trellocdn.com/add_to_trello.png 1x,
+      https://p.trellocdn.com/add_to_trello@2x.png 2x"
+  />
+</a>
+
 # English
 
 - Please submit any questions or defects to the [Issues](https://github.com/pvisionjp/redsync/issues).
