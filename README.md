@@ -2,7 +2,7 @@
 
 **News:** [All Functions Avaiable at No Charge](https://github.com/pvisionjp/redsync/wiki/News:-All-Functions-Avaiable-at-No-Charge)
 
-[Release History](https://github.com/pvisionjp/redsync/wiki/Release-History)
+**Release History:** [Check Here](https://github.com/pvisionjp/redsync/wiki/Release-History)
 
 <a href="https://trello.com/power-ups/617c2d2289d99f306863e8fa/enable">
   <img
